@@ -9,7 +9,7 @@ function displayTime(){
 let hh = date.getHours();
 let mm = date.getMinutes();
 let ss = date.getSeconds();
-
+let x = 20 ;
 // 12 hour = m360deg
 // 1 hour = 360/12 =30
 // h hour =30h + m/2
